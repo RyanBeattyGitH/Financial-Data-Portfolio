@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here, you'll find a collection of my projects and accomplishments in Financial Data.
 
 ## About Me
-I'm a Finance professional with a passion for creating Data projects. With skills in [list relevant technologies, e.g., Python, JavaScript, etc.], I've solved projects that involve real-world problems.
+I'm a Finance professional with a passion for creating Data projects. With skills in Excel, Tableau, SQL, Python and more I have completed projects that solve real-world problems.
 
 ## Projects
 
@@ -18,6 +18,10 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 ### Project 3: [Project Name]
 **Description**: Continue with other projects.
 **Link**: [GitHub Repository Link or Live Demo Link]
+
+## Certifications
+**CompTIA Data+ Certified** – Computing Technology Industry Association (Issued: October 2024)
+**BCS Business Analysis Foundation Certified** – BCS, The Chartered Institute for IT (Issued: September 2024)
 
 ## Contact
 - **Email**: Ryanbeatsbe@hotmail.com
