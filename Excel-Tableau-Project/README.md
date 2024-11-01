@@ -4,7 +4,7 @@
 This project analyzes the stock price trends of Lloyds Banking Group for 2023, with a focus on daily price fluctuations, moving averages, and trading volume.
 
 ## Data
-- Source: [Yahoo Finance](https://finance.yahoo.com/)
+- Source: [Investing.com](https://uk.investing.com/equities/lloyds-banking-grp-historical-data)
 - File: `Lloyds_Stock_Data_2023.csv`
 
 ## Analysis Steps
