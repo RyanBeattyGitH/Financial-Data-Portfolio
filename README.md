@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here, you'll find a collection of my projects and accomplishments in Financial Data.
 
 ## About Me
-I'm a Finance professional with a passion for creating Data projects. With skills in Excel, Tableau, SQL, Python and more I have completed projects that solve real-world problems.
+I'm a Finance professional with a passion for creating Data projects. With skills in Excel, Tableau, SQL and Python I have completed Financial data projects that solve real-world problems.
 
 ## Projects
 
