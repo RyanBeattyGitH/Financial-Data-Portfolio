@@ -9,6 +9,7 @@ The EPL Analysis 2018/19 project aims to provide insights into the English Premi
 
 ## Dataset Source
 The dataset used for this analysis is sourced from Footystats. You can find it here: (https://footystats.org/download-stats-csv).
+(Also in the data folder)
 
 ## Setup Instructions
 To set up the database and import the data, follow these steps:
