@@ -7,7 +7,7 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 
 ## Projects
 
-### Project 1: [Lloyds Banking Group (LLOY) stock market trends in 2023]
+### Project 1: Lloyds Banking Group Stock Analysis 2023
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: [GitHub Repository Link or Live Demo Link if available]
 
