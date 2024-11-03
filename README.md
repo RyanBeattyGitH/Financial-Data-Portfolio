@@ -11,8 +11,8 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: [GitHub Repository Link or Live Demo Link if available]
 
-### Project 2: [Project Name]
-**Description**: Describe this project as well, highlighting key features and tech stack.
+### Project 2: The English Premier League Analysis 2018/19
+**Description**: The EPL Analysis 2018/19 project aims to provide insights into the English Premier League (EPL) matches from the 2018/19 season using SQL.
 **Link**: [GitHub Repository Link or Live Demo Link]
 
 ### Project 3: [Project Name]
