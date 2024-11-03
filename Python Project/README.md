@@ -13,7 +13,7 @@ This project analyzes daily price data from the Nikkei 225 index from May 1, 196
 - Jupyter Notebook
 
 ## Dataset Source
-The dataset is sourced from Yahoo Finance. You can access the historical data [here](https://finance.yahoo.com/quote/%5EN225/history?p=%5EN225).
+The dataset is sourced from Kaggle. You can access the historical data here: https://www.kaggle.com/datasets/rushil999/nikkei-225-historical-prices?resource=download.
 
 ## Setup Instructions
 1. Clone the repository:
