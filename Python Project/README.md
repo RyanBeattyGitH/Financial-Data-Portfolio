@@ -4,7 +4,7 @@
 This project analyzes daily price data from the Nikkei 225 index from May 1, 1965, to October 20, 2023. Using Python and Pandas, we preprocess the data and implement a simple linear regression model to predict future prices based on historical data.
 
 ## Technologies Used
-- Python 3.x
+- Python 3.2
 - Pandas
 - NumPy
 - Scikit-Learn
