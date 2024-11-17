@@ -17,7 +17,7 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 
 ### Project 3: Nikkei 225 Price Prediction Model
 **Description**: Using Python, this project analyzes daily price data from the Nikkei 225 index from May 1, 1965, to October 20, 2023. And creates a Linear regression predicting the prices between October 20, 2023 & October 20, 2024.
-**Link**: 
+**Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Python%20Project
 
 ## Certifications
 **CompTIA Data+ Certified** – Computing Technology Industry Association (Issued: October 2024)
