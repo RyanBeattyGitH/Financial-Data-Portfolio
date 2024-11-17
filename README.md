@@ -21,6 +21,7 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 
 ## Certifications
 **CompTIA Data+ Certified** – Computing Technology Industry Association (Issued: October 2024)
+
 **BCS Business Analysis Foundation Certified** – BCS, The Chartered Institute for IT (Issued: September 2024)
 
 ## Contact
