@@ -1,4 +1,4 @@
-# Ryan Beatty's Portfolio
+# Ryan Beatty's Data Portfolio
 
 ### Tableau Visulisation: Lloyds Banking Group Stock Analysis 2023
 
