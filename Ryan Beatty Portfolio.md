@@ -45,6 +45,10 @@
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/SQL%20Project
 
 ### Python Predictive Modelling: Nikkei 225 Price Prediction Model
+
+![Nikkei 225 Linear Regression 20 Oct 2023 to 20 Oct 2024 Price Prediction](https://github.com/user-attachments/assets/8cc22e69-4851-4199-a751-ce8453dbf469)
+
+
 **Description**: Using Python, this project analyzes daily price data from the Nikkei 225 index from May 1, 1965, to October 20, 2023. And creates a Linear regression predicting the prices between October 20, 2023 & October 20, 2024.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Python%20Project
 
