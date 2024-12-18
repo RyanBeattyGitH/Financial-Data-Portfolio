@@ -8,7 +8,37 @@
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
-### SQL scripts: The English Premier League Analysis 2018/19
+### SQL script example: The English Premier League Analysis 2018/19
+
+[Uploading Av-- Calculate average goals and PPG in the last 5 matches for each team, displayed as decimals
+WITH RecentMatches AS (
+    SELECT 
+        home_team_name AS team,
+        home_team_goal_count AS goals,
+        game_week,
+        ROW_NUMBER() OVER (PARTITION BY home_team_name ORDER BY game_week DESC) AS match_rank
+    FROM [premier-league-matches-2018-to-2019-data]
+    
+    UNION ALL
+    
+    SELECT 
+        away_team_name AS team,
+        away_team_goal_count AS goals,
+        game_week,
+        ROW_NUMBER() OVER (PARTITION BY away_team_name ORDER BY game_week DESC) AS match_rank
+    FROM [premier-league-matches-2018-to-2019-data]
+)
+
+SELECT 
+    team,
+    CAST(AVG(CAST(goals AS DECIMAL(5, 2))) AS DECIMAL(5, 2)) AS AvgGoalsLast5,
+    COUNT(*) AS GamesPlayed
+FROM RecentMatches
+WHERE match_rank <= 5
+GROUP BY team;
+erage Goals in the last 10 matches.sql…]()
+
+
 **Description**: Using SQL, the EPL Analysis 2018/19 project aims to provide insights into the English Premier League (EPL) matches from the 2018/19 season.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/SQL%20Project
 
