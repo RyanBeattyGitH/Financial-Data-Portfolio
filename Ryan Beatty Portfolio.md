@@ -2,6 +2,7 @@
 
 ### Tableau Visulisation: Lloyds Banking Group Stock Analysis 2023
 
+![Uploading Lloyds Banking Group 2023 Stock Analysis.png…]()
 
 
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
