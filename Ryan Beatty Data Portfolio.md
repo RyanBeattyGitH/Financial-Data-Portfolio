@@ -1,6 +1,6 @@
 # Ryan Beatty's Data Portfolio
 
-### Tableau Visulisation: Lloyds Banking Group Stock Analysis 2023
+### Tableau Visualisation example: Lloyds Banking Group Stock Analysis 2023
 
 ![Lloyds Banking Group 2023 Stock Analysis](https://github.com/user-attachments/assets/66db8831-0f0f-4ff4-95e5-4566a2e12250)
 
@@ -44,7 +44,7 @@
 **Description**: Using SQL, the EPL Analysis 2018/19 project aims to provide insights into the English Premier League (EPL) matches from the 2018/19 season.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/SQL%20Project
 
-### Python Predictive Modelling: Nikkei 225 Price Prediction Model
+### Python Predictive Modelling example: Nikkei 225 Price Prediction Model
 
 ![Nikkei 225 Linear Regression 20 Oct 2023 to 20 Oct 2024 Price Prediction](https://github.com/user-attachments/assets/8cc22e69-4851-4199-a751-ce8453dbf469)
 
