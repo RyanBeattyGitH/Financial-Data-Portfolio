@@ -11,7 +11,7 @@
 ### SQL script example: The English Premier League Analysis 2018/19
 
 
--- Calculate average goals and PPG in the last 5 matches for each team, displayed as decimals
+-- Calculating average goals and PPG in the last 5 matches for each team, displayed as decimals
 
     WITH RecentMatches AS (
     SELECT 
