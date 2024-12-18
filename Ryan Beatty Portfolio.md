@@ -1,6 +1,9 @@
 # Ryan Beatty's Portfolio
 
-### Tabeleau Visulisation: Lloyds Banking Group Stock Analysis 2023
+### Tableau Visulisation: Lloyds Banking Group Stock Analysis 2023
+
+
+
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
