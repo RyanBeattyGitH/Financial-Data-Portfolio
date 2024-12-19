@@ -53,17 +53,23 @@
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Python%20Project
 
 ## Certifications
-**Data: CompTIA Data+ Certified** – Computing Technology Industry Association (Issued: October 2024)
+**Data**: 
 
-**Finance: BCS Business Analysis Foundation Certified** – BCS, The Chartered Institute for IT (Issued: September 2024)
+- *CompTIA Data+ Certified* (Issued: October 2024) 
 
-**Finance: CISI Level 4 UK Regulation and Professional Integrity** – Chartered Institute for Securities & Investment (Issued: September 2023)
+**Finance**:  
 
-**Finnace: CISI Level 4 UK Securities Investment Advice Diploma** – Chartered Institute for Securities & Investment (Issued: May 2024)
+- *BCS Business Analysis Foundation Certified* (Issued: September 2024) 
 
-**Anti Money Laundering: Certified AML FinTech Compliance Associate (CAFCA)** - Association of Certified Anti-Money Laundering Specialists (Issued: March 2024)
+- *CISI Level 4 UK Regulation and Professional Integrity* – (Issued: September 2023) 
 
-**Japanese-Language Proficiency Test N4** – Japan Foundation and Japan Educational Exchanges and Services (Issued: July 2024)
+- *CISI Level 4 UK Securities Investment Advice Diploma* – (Issued: May 2024) 
+
+- *Certified AML FinTech Compliance Associate (CAFCA)** - (Issued: March 2024) 
+
+**Language**: 
+
+- *Japanese-Language Proficiency Test N4* – (Issued: July 2024) 
 
 ## Contact
 - **Email**: Ryanbeatsbe@hotmail.com
