@@ -65,7 +65,7 @@
 
 - *CISI Level 4 UK Securities Investment Advice Diploma* – (Issued: May 2024) 
 
-- *Certified AML FinTech Compliance Associate (CAFCA)** - (Issued: March 2024) 
+- *Certified AML FinTech Compliance Associate (CAFCA)* - (Issued: March 2024) 
 
 **Language**: 
 
