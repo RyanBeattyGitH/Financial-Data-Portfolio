@@ -1,12 +1,15 @@
 # Ryan Beatty's Data Portfolio
 
+
 ### Tableau Visualisation example: Lloyds Banking Group Stock Analysis 2023
 
 ![Lloyds Banking Group 2023 Stock Analysis](https://github.com/user-attachments/assets/66db8831-0f0f-4ff4-95e5-4566a2e12250)
 
 
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
+
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
+
 
 ### Power BI Visualisation example: Pepsi & Coke Historical Stock Comparison 
 
@@ -14,7 +17,9 @@
 
 
 **Description**: Using Excel and Power BI, this project compares the stock trends of Pepsi & Coke with a focus on Volume, Average Prices, and comparison of Closing Prices.
+
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/blob/main/Power%20BI%20Project/README.md
+
 
 ### SQL script example: The English Premier League Analysis 2018/19
 
@@ -50,7 +55,9 @@
 
 
 **Description**: Using SQL, the EPL Analysis 2018/19 project aims to provide insights into the English Premier League (EPL) matches from the 2018/19 season.
+
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/SQL%20Project
+
 
 ### Python Predictive Modelling example: Nikkei 225 Price Prediction Model
 
@@ -58,7 +65,9 @@
 
 
 **Description**: Using Python, this project analyzes daily price data from the Nikkei 225 index from May 1, 1965, to October 20, 2023. And creates a Linear regression predicting the prices between October 20, 2023 & October 20, 2024.
+
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Python%20Project
+
 
 ## Certifications
 **Data**: 
@@ -75,9 +84,11 @@
 
 - *Certified AML FinTech Compliance Associate (CAFCA)* - (Issued: March 2024) 
 
+
 **Language**: 
 
 - *Japanese-Language Proficiency Test N4* – (Issued: July 2024) 
+
 
 ## Contact
 - **Email**: Ryanbeatsbe@hotmail.com
