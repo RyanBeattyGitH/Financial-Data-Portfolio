@@ -11,9 +11,9 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
-### Project 2: Lloyds Banking Group Stock Analysis 2023
-**Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
-**Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
+### Project 2: Pepsi & Coke Historical Stock Comparison
+**Description**: Using Excel and Power BI, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
+**Link**: 
 
 ### Project 3: The English Premier League Analysis 2018/19
 **Description**: Using SQL, the EPL Analysis 2018/19 project aims to provide insights into the English Premier League (EPL) matches from the 2018/19 season.
