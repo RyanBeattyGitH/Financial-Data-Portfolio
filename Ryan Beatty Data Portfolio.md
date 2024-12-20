@@ -8,6 +8,14 @@
 **Description**: Using Excel and Tableau, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
+### Power BI Visualisation example: Pepsi & Coke historical stock comparison 
+
+![KO   PEP Comparison](https://github.com/user-attachments/assets/c39f71dc-0e56-4dbf-8527-a25bc1ad4d13)
+
+
+**Description**: Using Excel and Power BI, this project compares the stock trends of Pepsi & Coke with a focus on volume, average prices, and comparison of closing prices.
+**Link**: 
+
 ### SQL script example: The English Premier League Analysis 2018/19
 
 
