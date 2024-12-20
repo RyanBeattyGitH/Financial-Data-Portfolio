@@ -12,7 +12,7 @@ I'm a Finance professional with a passion for creating Data projects. With skill
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
 ### Project 2: Pepsi & Coke Historical Stock Comparison
-**Description**: Using Excel and Power BI, this project analyzes the stock price trends of Lloyds Banking Group for 2023 with a focus on daily price fluctuations, moving averages, and trading volume.
+**Description**: Using Excel and Power BI, this project compares the stock trends of Pepsi & Coke with a focus on volume, average prices, and comparison of closing prices.
 **Link**: 
 
 ### Project 3: The English Premier League Analysis 2018/19
