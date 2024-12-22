@@ -1,7 +1,7 @@
 # Ryan Beatty's Data Portfolio
 
 
-### Tableau Visualisation example: Lloyds Banking Group Stock Analysis 2023
+### 1. Tableau Visualisation example: Lloyds Banking Group Stock Analysis 2023
 
 ![Lloyds Banking Group 2023 Stock Analysis](https://github.com/user-attachments/assets/66db8831-0f0f-4ff4-95e5-4566a2e12250)
 
@@ -11,7 +11,7 @@
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/Excel-Tableau-Project
 
 
-### Power BI Visualisation example: Pepsi & Coke Historical Stock Comparison 
+### 2. Power BI Visualisation example: Pepsi & Coke Historical Stock Comparison 
 
 ![KO   PEP Comparison](https://github.com/user-attachments/assets/c39f71dc-0e56-4dbf-8527-a25bc1ad4d13)
 
@@ -21,7 +21,7 @@
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/blob/main/Power%20BI%20Project/README.md
 
 
-### SQL script example: The English Premier League Analysis 2018/19
+### 3. SQL script example: The English Premier League Analysis 2018/19
 
 
 -- Calculating average goals and PPG in the last 5 matches for each team, displayed as decimals
@@ -59,7 +59,7 @@
 **Link**: https://github.com/RyanBeattyGitH/Financial-Data-Portfolio/tree/main/SQL%20Project
 
 
-### Python Predictive Modelling example: Nikkei 225 Price Prediction Model
+### 4. Python Predictive Modelling example: Nikkei 225 Price Prediction Model
 
 ![Nikkei 225 Linear Regression 20 Oct 2023 to 20 Oct 2024 Price Prediction](https://github.com/user-attachments/assets/8cc22e69-4851-4199-a751-ce8453dbf469)
 
